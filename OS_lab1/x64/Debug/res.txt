@@ -1,0 +1,4 @@
+File report "in.bin"
+Employee number	Employee name	timepiece	Salary
+1		dasha		20		2000
+2		ivan		30		3000
