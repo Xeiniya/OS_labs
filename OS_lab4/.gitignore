@@ -1,0 +1,26 @@
+# Visual Studio
+*.ipch
+*.db
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.sdf
+*.cache
+.vs/
+out/
+build/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.ncb
+*.aps
+*.sbr
+*.class
+*.pch
+*.idb
