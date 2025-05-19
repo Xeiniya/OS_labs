@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/a1f4da5bb0a1ba5f7ca84c0215cba477/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/5a5a129827f8d99716307b3d65e0ae93/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/\u041b\u0410\u0411\u042b/\u041b\u0430\u0431\u044b_\u043e\u0441\u0438/OS_lab5/lab_98/build/_deps/googletest-subbuild/CMakeFiles/6912da4eb7eed8732b1aae45ba55702b/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

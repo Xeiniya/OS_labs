@@ -1,0 +1,27 @@
+# ninja log v6
+12	281	7699954049040708	CMakeFiles/common_lib.dir/src/protocol.cpp.obj	ecc110e5f8bd4aa1
+42	782	7699954049385631	CMakeFiles/client.dir/src/named_pipe.cpp.obj	beb232f98b7f65e1
+2912	2954	7699975589702579	lib/gtest_main.lib	92d5a66a904b8ffb
+7	492	7699954049020685	CMakeFiles/common_lib.dir/src/common.cpp.obj	fff5dd84ef527656
+17	508	7699954049120503	CMakeFiles/common_lib.dir/src/file_manager.cpp.obj	9330f504e249c88d
+38	626	7699968932558137	CMakeFiles/server.dir/src/access_manager.cpp.obj	7334c6f830546469
+508	556	7699954054048068	common_lib.lib	74b7a14b5833ed29
+28	777	7699954049228942	CMakeFiles/server.dir/src/named_pipe.cpp.obj	e6c761d82f3357f1
+15	669	7699966994346540	CMakeFiles/client.dir/src/client.cpp.obj	873f1b4697ddb8ed
+32	1091	7699968932558137	CMakeFiles/server.dir/src/server.cpp.obj	9db7e77d8509b04f
+670	919	7699967000854943	bin/client.exe	226381f0b5f89ff1
+1091	1386	7699968943198072	bin/server.exe	52ee045541d6d138
+72	1550	7699975561331354	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	cc01631d2816c480
+66	1702	7699975561261521	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	24e95407518c7c5c
+61	2074	7699975561214942	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	d397dff2bad0c944
+50	2092	7699975561100407	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	e963a27e307f0f64
+55	2825	7699975561158979	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	fb3479a8bae3b245
+36	2839	7699975560910027	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	5612ef683ccb98e2
+44	2874	7699975561054820	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	1711c2c32dfc0a72
+2839	2911	7699975588972624	lib/gtest.lib	1c24bd75693ec444
+2826	2919	7699975588854332	lib/gmock_main.lib	c59f1ea11c083a74
+2874	2956	7699975589345890	lib/gmock.lib	8c88a17442693799
+43	853	7699983707548855	CMakeFiles/common_lib.dir/src/access_manager.cpp.obj	3fc8166e0de068be
+853	908	7699983715647855	common_lib.lib	84d5c8e9db7bd4b4
+908	1148	7699983716184223	bin/server.exe	52ee045541d6d138
+914	1153	7699983716184223	bin/client.exe	226381f0b5f89ff1
